@@ -1,0 +1,17 @@
+# Java compiled files
+*.class
+bin/
+out/
+
+# Local patient data
+data/
+*.dat
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+
+# Logs
+*.log 
